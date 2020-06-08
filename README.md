@@ -1,2 +1,2 @@
 # Data-Structures-in-Java
-This repository has a source code of data structures in java with some problems and Competitive programming questions in C++
+This repository has a source codes of different platforms which I solve in java and C++ 
